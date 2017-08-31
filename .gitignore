@@ -1,0 +1,5 @@
+# Created by https://www.gitignore.io/api/node,sass,netbeans,sublimetext,visualstudiocode
+
+# class files
+*.class
+
