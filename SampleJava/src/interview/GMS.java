@@ -72,6 +72,6 @@ public class GMS {
         }    
     }
 	public static void main(String[] args) {
-		System.out.println(closingBracePosition("(I want) (to write a language parser, would (you) help me)", ));
+		System.out.println(closingBracePosition("(I want) (to write a language parser, would (you) help me)" ));
 	}
 }

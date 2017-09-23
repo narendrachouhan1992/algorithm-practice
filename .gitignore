@@ -2,4 +2,7 @@
 
 # class files
 *.class
+.metadata/
+.recommenders/
+
 

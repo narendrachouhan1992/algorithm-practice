@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=SampleJava/src&lt;dynamic{UglyNumberDynamic.java[UglyNumberDynamic" modifiers="1" timestamp="1496075635691"/>
+<typeInfo handle="=SampleJava/src&lt;dynamic{LongestPalendromicSubsequenceDynamic.java[LongestPalendromicSubsequenceDynamic" modifiers="1" timestamp="1495131624948"/>
+<typeInfo handle="=SampleJava/src&lt;dynamic{LongestPalendromicSubsequenceRecursive.java[LongestPalendromicSubsequenceRecursive" modifiers="1" timestamp="1495130846533"/>
+</typeInfoHistroy>
